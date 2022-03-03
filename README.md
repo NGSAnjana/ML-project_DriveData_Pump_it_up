@@ -34,5 +34,7 @@ Form source_type, source_class and source, source_type and source_class are drop
 scheme_management is dropped because it has 3000 Nan values amount_tsh is dropped it has 70% of zeros
 
     Droppped object type features which has large unusefull values
+![DriveData-rank](https://user-images.githubusercontent.com/47827198/156557217-f943813e-cf22-4e5b-845c-241844281cc6.png)
 
 wpt_name is dropped, because it has more than 50% of unique values and Also scheme_name and subvillage are dropped, it have large unique values num_private is dropped, because it has 98% of zeros Since recorded_by has only one unique value, it does not depend to output. So featue is dropped
+![DriveData-submissions](https://user-images.githubusercontent.com/47827198/156557230-87075f9e-8b27-4616-b717-819a4ce77eee.png)
